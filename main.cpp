@@ -8,6 +8,7 @@ int main(int argc, char* argv[]) {
 
   cout << *argv << endl;
 
-  cout << *argv[0] << endl;
+  cout << endl;
+  cout << argv[1] << endl;
   cout << *argv[1] << endl;  // TODO: here's the problem - i lack understanding
 }
