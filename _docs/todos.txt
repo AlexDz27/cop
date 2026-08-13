@@ -1,0 +1,5 @@
+Make it portable (Win, unix)
+  What is POSIX here? Will it get in my way?)
+
+Make it be able to copy pictures, not just text
+  Make it be able to copy some ~binary data?
