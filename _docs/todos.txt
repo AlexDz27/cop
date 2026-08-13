@@ -3,3 +3,7 @@ Make it portable (Win, unix)
 
 Make it be able to copy pictures, not just text
   Make it be able to copy some ~binary data?
+
+@cur 
+Just print back some string
+Just print back the name of the file
