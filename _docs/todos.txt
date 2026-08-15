@@ -5,5 +5,8 @@ Make it be able to copy pictures, not just text
   Make it be able to copy some ~binary data?
 
 @cur 
-Just print back some string
-Just print back the name of the file
+c strings
+  how does it behave?
+  make an array of c strings
+
+@play Just put argv[1] into a file (hard-coded)
